@@ -1,3 +1,6 @@
 [submodule "comp1"]
 	path = comp1
 	url = /home/szymon/Documents/Valeo/git_example/
+[submodule "test_repo"]
+	path = test_repo
+	url = /home/szymon/Documents/Valeo/test_repo
