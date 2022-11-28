@@ -4,3 +4,6 @@
 [submodule "test_repo"]
 	path = test_repo
 	url = /home/szymon/Documents/Valeo/test_repo
+[submodule "new"]
+	path = new
+	url = git@github.com:szymonPa/test_repo.git
